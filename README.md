@@ -11,7 +11,7 @@ I'm from the Vietname vn, currently in the GMT+07 Time Zone 🌎. I'm a huge fan
 ## 🌱 I’m currently learning
 - Java
 - C#
-- Softskills for BA
+- Softskills
 
 ## 🔨 I've programmed several personal projects 
 - [Product Store Management](https://github.com/haibeu2901/prj301-ProductIntroduction) | Java Web Application
