@@ -9,8 +9,6 @@
 I'm from the Vietname vn, currently in the GMT+07 Time Zone 🌎. I'm a huge fan of Java, open-source, and writing, testing software 💻. When I'm not crushing bugs or building dreams, I can be found playing football 🏃‍♂️, playing basketball ⛹️‍♂️, cycling 🚵‍♂️, swimming 🏊‍♂️, and spending time on fantasy comic 🤹‍♂️ or detective novel 🕵️‍♂️.
 
 ## 🔭 I'm currently studying in HCM FPT University
-[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
 
 ## 🌱 I’m currently learning
 
