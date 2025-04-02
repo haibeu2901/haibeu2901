@@ -10,8 +10,6 @@ I'm from the Vietname vn, currently in the GMT+07 Time Zone 🌎. I'm a huge fan
 
 ## 🔭 I'm currently studying in HCM FPT University
 
-## 🌱 I’m currently learning
-
 ## 🔨 I've programmed several personal projects 
 - [Product Store Management](https://github.com/haibeu2901/prj301-ProductIntroduction) | Java Web Application
 - [Bike Store Management](https://github.com/haibeu2901/lab211-BikeStore) | Run on Netbeans 8.2 console
