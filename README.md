@@ -7,8 +7,8 @@
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding :penguin:
-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 - :monocle_face: I'm interested in coding, sleeping, and watching film
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 - ✍️Random Dev Quote
 
 
