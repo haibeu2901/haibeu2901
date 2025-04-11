@@ -8,7 +8,7 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching film
-- :ok_hand: ✍️Random Dev Quote
+- ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
@@ -29,9 +29,9 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=haibeu2901&theme=algolia" />
-<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" /> -->
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=haibeu2901&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=haibeu2901&theme=react-dark"/>
+  <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=haibeu2901&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
