@@ -8,8 +8,8 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching film
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 - ✍️Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
