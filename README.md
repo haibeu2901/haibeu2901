@@ -1,8 +1,8 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="HaiBeu2901 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="HaiBeu2901 | Count Views" src="" />
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Đoàn Đức Hải** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Đoàn Đức Hải** 
 - :school: I'm currently a Undergraduate student from **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
