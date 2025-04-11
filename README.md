@@ -1,6 +1,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="HaiBeu2901 | Count Views" src="" />
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100%" height="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **Đoàn Đức Hải** <img src="" width="400" align="right"/>
 - :school: I'm currently a Undergraduate student from **FPT University - Ho Chi Minh City Campus**
@@ -8,7 +8,7 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching film
-- ✍️Random Dev Quote
+- :ok_hand: ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
