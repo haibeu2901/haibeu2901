@@ -13,4 +13,4 @@ I'm from the Vietname vn, currently in the GMT+07 Time Zone 🌎. I'm a huge fan
 ## 🔨 I've programmed several personal projects 
 - [Product Store Management](https://github.com/haibeu2901/prj301-ProductIntroduction) | Java Web Application
 - [Bike Store Management](https://github.com/haibeu2901/lab211-BikeStore) | Run on Netbeans 8.2 console
-- [Library Management System](https://github.com/haibeu2901/LibraryManagementSystem/tree/main) | JFrame, MySQL, UNFINISHED
+- [Library Management System](https://github.com/haibeu2901/LibraryManagementSystem) | JFrame, MySQL, UNFINISHED
