@@ -1,6 +1,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/haibeu2901?style=social"> &nbsp;&nbsp; <img alt="HaiBeu2901 | Count Views" src="" />
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100%" height="50px"></img> About Me
 
 - :credit_card: My full name is **Đoàn Đức Hải** <img src="" width="400" align="right"/>
 - :school: I'm currently a Undergraduate student from **FPT University - Ho Chi Minh City Campus**
